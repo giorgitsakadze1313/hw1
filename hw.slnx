@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="homework/homework.csproj" />
+  <Project Path="homework3/homework3.csproj" Id="d6725009-3d3e-4ee8-bf22-dcb1a0e12196" />
 </Solution>
