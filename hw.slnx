@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="ConsoleApp1/hm4.csproj" Id="977bf493-d108-4c8f-885e-dbe54b67bc26" />
   <Project Path="homework/homework.csproj" />
   <Project Path="homework3/homework3.csproj" Id="d6725009-3d3e-4ee8-bf22-dcb1a0e12196" />
 </Solution>
