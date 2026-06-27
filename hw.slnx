@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="ConsoleApp1/hm4.csproj" Id="977bf493-d108-4c8f-885e-dbe54b67bc26" />
   <Project Path="ConsoleApp2/hm5.csproj" Id="63d90c54-460c-4bd3-adb4-865d7c909436" />
+  <Project Path="ConsoleApp3/hm6.csproj" Id="14bc4fe9-b3d0-4d69-9b14-de6f261f4f7c" />
   <Project Path="homework/homework.csproj" />
   <Project Path="homework3/homework3.csproj" Id="d6725009-3d3e-4ee8-bf22-dcb1a0e12196" />
 </Solution>
